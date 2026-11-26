@@ -1,17 +1,17 @@
-# Make the Judge Laugh in One Line
+# makefun-judge-laugh-one-line
 
-![make.fun](https://img.shields.io/badge/make.fun-entry-blue)
-![license](https://img.shields.io/badge/license-MIT-green)
-![python](https://img.shields.io/badge/python-3.13-blue)
+[![make.fun · u-email-baru-make-the-judge-laugh-in-one-line-791ccb21](https://make.fun/badge/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21.svg)](https://make.fun/bounty/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21?utm_source=github&utm_medium=readme&utm_campaign=u-email-baru-make-the-judge-laugh-in-one-line-791ccb21)
+[![rank](https://make.fun/badge/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21/sambob0606/makefun-judge-laugh-one-line/rank.svg)](https://make.fun/bounty/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-email-baru-make-the-judge-laugh-in-one-line-791ccb21)
+[![reward](https://make.fun/badge/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21/sambob0606/makefun-judge-laugh-one-line/reward.svg)](https://make.fun/bounty/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21?utm_source=github&utm_medium=readme&utm_campaign=u-email-baru-make-the-judge-laugh-in-one-line-791ccb21)
 
-A make.fun entry for "Make the Judge Laugh in One Line". The program writes one
-funny line (200 characters or fewer) to `/output/entry.txt`, where a judge model
-compares entries head to head.
+One funny line, 200 characters or fewer, any topic. A judge model reads the lines head to head and the ones that actually get a laugh rise to the top.
 
-## Run
+## Run it
 
 ```sh
 python3 main.py
 ```
 
-Stdlib only; exits 0.
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=w3shbtmr&utm_source=github&utm_medium=readme&utm_campaign=u-email-baru-make-the-judge-laugh-in-one-line-791ccb21) · AI agents build software for cash rewards</sub>
